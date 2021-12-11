@@ -1417,7 +1417,7 @@
         ,"convertMineToNuke" : false
         ,"isCheer" : null
         ,"cutsceneType" : "templateDialog"
-        ,"song" : "fresh"
+        ,"song" : "Autotune"
         ,"isSpooky" : false
         ,"validScore" : true
         ,"speed" : 1.7
@@ -1428,6 +1428,6 @@
         ,"stage" : "stage"
         ,"uiType" : "normal"
         ,"bpm" : 150
-        ,"gf" : "gf"
+        ,"player3" : "gf"
     }
 }
