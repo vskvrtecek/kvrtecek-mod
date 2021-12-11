@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "omg is that kvrtecek",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yes it is who are you ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "template1"
+        },
+        {
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "im bf i can defeat anyone who fight me im sure you can't beat me"
+		 },
+		 {
+			"speed": 0.05,
+			"portrait": "template1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you fucking dump i can beat you i am the strongest in this fucking universe i even beated shaggy and matt"
+		}
+	]
+}
