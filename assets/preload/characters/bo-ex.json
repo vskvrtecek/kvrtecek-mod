@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-66,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bobEX_down"
+		},
+		{
+			"offsets": [
+				-70,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bobEX_idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bobEX_left"
+		},
+		{
+			"offsets": [
+				-67,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bobEX_up"
+		},
+		{
+			"offsets": [
+				-65,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bobEX_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bo-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
